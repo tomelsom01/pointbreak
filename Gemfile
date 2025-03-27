@@ -78,3 +78,4 @@ gem 'concurrent-ruby', '1.3.4'
 
 # image storage
 gem "dotenv-rails"
+gem "cloudinary"
